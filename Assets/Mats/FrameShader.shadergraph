@@ -523,16 +523,16 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "0028f516e8c142b2840840522d2b8c35",
-    "m_Title": "極座標のFractionで円状の波が得られる",
+    "m_Title": "極座標(Polar Coordinates)のFractionで円状の波が得られる",
     "m_Content": "",
     "m_TextSize": 2,
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
         "x": -2402.0,
-        "y": -916.0,
+        "y": -1011.0,
         "width": 1054.1734619140625,
-        "height": 454.3000793457031
+        "height": 549.130615234375
     },
     "m_Group": {
         "m_Id": ""
