@@ -1,3 +1,6 @@
+# u1w共有会資料
+https://docs.google.com/presentation/d/1uBzMsQHhRMmsXev7DgKCtYbDLok691EH4qMCQ3OnU6U/edit?usp=sharing
+
 # 使用したver
 Unity 2021.2.8f1
 
