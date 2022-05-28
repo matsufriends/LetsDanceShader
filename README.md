@@ -1,5 +1,3 @@
-# LetsDanceShader
-
 # 使用したver
 Unity 2021.2.8f1
 
